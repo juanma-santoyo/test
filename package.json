@@ -1,0 +1,33 @@
+{
+    "name": "shima-engine"
+    , "version": "1.0.0"
+    , "description": "The HTML rendering module for Shima Engine"
+    , "main": "engine.js"
+    , "scripts":
+    {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    }
+    , "author": "Mike Navarro <mike.navarro@logitravel.com> (http://www.logitravel.com)"
+    , "contributors": [
+        "Mike Navarro <mike.navarro@logitravel.com> (http://www.logitravel.com)"
+        , "Juanma Santoyo <juamna.santoyo@logitravel.com> (http://www.logitravel.com)"
+        , "David Vaca <david.vaca@logitravel.com> (http://www.logitravel.com)"
+    ]
+    , "dependencies":
+    {
+        "fs": "0.0.1-security"
+        , "handlebars": "^4.0.5"
+        , "pug": "2.0.0-beta6"
+        , "lodash": "^4.16.4"
+    }
+    , "repository":
+    {
+        "type": "git"
+        , "url": "https://toolfactory.visualstudio.com/DefaultCollection/Shima/_git/Toolfactory.Shima.ShimaEngine.NodePackages"
+    }
+    , "keywords": [
+        "shima"
+        , "engine"
+    ]
+    , "license": "SEE LICENSE IN no_license_available.html"
+}
